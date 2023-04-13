@@ -115,7 +115,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/DEV-SONIC/RevorMusic",
+      "value": "https://github.com/Xavier-V1/ZeiNa",
       "required": true
     },
     "UPSTREAM_BRANCH": {
